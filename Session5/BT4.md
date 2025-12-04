@@ -1,0 +1,4 @@
+# Kỹ thuật Retrospective phù hợp: Mad – Sad – Glad
+
+**Lý do lựa chọn:**
+Kỹ thuật Mad – Sad – Glad rất phù hợp với trạng thái hiện tại của team vì nó tập trung vào việc giải tỏa cảm xúc, khuyến khích các thành viên chia sẻ thật về những điều khiến họ bức xúc (Mad), buồn bã (Sad) và những điểm tích cực (Glad) còn sót lại. Phương pháp này giúp team nhận diện rõ các nguyên nhân gây stress, mất kết nối và các vấn đề tồn đọng, từ đó tạo không gian an toàn để mọi người bày tỏ cảm xúc thật. Nhờ vậy, Scrum Master có thể khơi gợi sự đồng cảm, tăng tinh thần hợp tác và cùng team phân tích root-cause của stress, bug dồn cuối Sprint. Các kỹ thuật như Start–Stop–Continue, 4Ls, Sailboat hay Timeline thiên về hành động, phản hồi hoặc phân tích tiến trình, chưa thực sự tập trung vào cảm xúc và sự kết nối nội bộ – điều mà team đang rất cần lúc này.
